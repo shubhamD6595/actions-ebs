@@ -1,5 +1,5 @@
 
-nubra 3.2.10
+nubra 3.2.10,12,12
 
 
 mysql> select id, image_name_with_tag from job_step where id in (2000, 32000, 42000);
